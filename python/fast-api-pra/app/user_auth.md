@@ -24,3 +24,4 @@ purpose of the signature :
     1.user logged in -> token created with credentials if creds are valid a token is generated then same process as above :
     the token include:header payload data , secrete (password)with these three we create a signature (hashing function) => and hence a token is formed 
     ![alt text](image.png)
+    ![image](https://github.com/yash3004/web-dev-beg2master/assets/91517727/892a8c2d-f618-4057-9f02-ea5a99f09c6b)
